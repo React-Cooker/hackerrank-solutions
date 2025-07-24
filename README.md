@@ -1,24 +1,14 @@
-# Day 3: Intro to Conditional Statements
+# HackerRank Solutions
 
-## 🎯 Problem
+This repository contains my solutions for HackerRank's "10 Days of JavaScript" and "30 Days of Code" challenges. The solutions are organized by day, with each day's folder containing the solution files and a README with explanations.
 
-Bu, [HackerRank'in 30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) serisindeki "Conditional Statements" problemidir.
+## 10 Days of JavaScript
 
-**Görevin özeti:** Verilen bir tam sayıya göre, belirli koşullara dayanarak "Weird" veya "Not Weird" çıktısı vermek.
+*   [Day 0: Hello, World!](./10-days-of-javascript/day-0/README.md)
+*   [Day 1: Functions](./10-days-of-javascript/day-1/README.md)
+*   [Day 2: Loops and Switch](./10-days-of-javascript/day-2/README.md)
+*   [Day 3: Arrays and Exceptions](./10-days-of-javascript/day-3/README.md)
 
-[👉 Problemin tamamını görmek için buraya tıkla](https://www.hackerrank.com/challenges/30-conditional-statements/problem)
+## 30 Days of Code
 
----
-
-## 💡 Çözüm Yaklaşımı
-
-Çözümümde önce sayının tekliğini `N % 2` ile kontrol ettim. Sayı tekse doğrudan "Weird" sonucunu verdim. Çiftse, `if-else` blokları ile verilen aralıklara göre "Weird" veya "Not Weird" sonucunu belirledim.
-
----
-
-## 🚀 Nasıl Çalıştırılır?
-
-Bu klasördeyken terminalde aşağıdaki komutu çalıştırın:
-```bash
-node index.js
-```
+*   [Day 3: Intro to Conditional Statements](./30-days-of-code/day-3/README.md)
